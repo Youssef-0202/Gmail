@@ -4,8 +4,8 @@ package projet.grand.bean.email;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.ManyToOne;
-import projet.grand.bean.commun.Category;
-import projet.grand.bean.commun.User;
+import projet.grand.bean.commu.Category;
+import projet.grand.bean.commu.User;
 
 import java.time.LocalDateTime;
 

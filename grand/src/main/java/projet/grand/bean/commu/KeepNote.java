@@ -1,4 +1,4 @@
-package projet.grand.bean.commun;
+package projet.grand.bean.commu;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
