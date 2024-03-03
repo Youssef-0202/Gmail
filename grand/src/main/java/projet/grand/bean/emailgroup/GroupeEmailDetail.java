@@ -2,7 +2,7 @@ package projet.grand.bean.emailgroup;
 
 
 import jakarta.persistence.*;
-import projet.grand.bean.commun.User;
+import projet.grand.bean.commu.User;
 
 import java.time.LocalDateTime;
 //tableaux d'association entre User et GroupEmail

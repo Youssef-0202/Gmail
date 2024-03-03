@@ -1,9 +1,7 @@
-package projet.grand.bean.commun;
+package projet.grand.bean.commu;
 
 
 import jakarta.persistence.*;
-
-import java.util.List;
 
 @Entity
 public class User {
